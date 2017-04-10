@@ -1,0 +1,2 @@
+# singleton_pattern
+This pattern is certainly the pattern that every developer learns first. It is often  used with a factory or abstract factory class to ensure that there is only one instance  of the class. The singleton pattern ensures that a class has only one instance and provides a  global point of access to it, and at this point, it returns an instance of this class.  In some cases, it can be useful to have some classes that have only one instance;  for example, in the case of the abstract factory, where it is not useful to have  several instances.
